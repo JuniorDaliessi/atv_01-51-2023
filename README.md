@@ -30,6 +30,12 @@ ATIVIDADE 1 - TÓPICOS ESPECIAIS - 51/2023 - SUPERIOR DE TECNOLOGIA EM ANÁLISE 
 ![3.3](https://github.com/JuniorDaliessi/atv_01-51-2023/blob/nova_branch/prints_da_atividade/Screenshot_10.jpg)
 
 ### (4) Abrir e fazer o merge de um pull request.
+* print 01
+![4.1](https://github.com/JuniorDaliessi/atv_01-51-2023/blob/nova_branch/prints_da_atividade/Screenshot_11.jpg)
+
+* Print 02
+![4.1](https://github.com/JuniorDaliessi/atv_01-51-2023/blob/nova_branch/prints_da_atividade/Screenshot_12.jpg)
 
 
-![]()
+
+
